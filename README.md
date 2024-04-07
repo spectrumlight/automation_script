@@ -8,5 +8,5 @@ Usage
 1. Specify the name of your script. If it's a hidden script (e.g "/home/admin/.script) then add a period before its name
    Example: process_name=".script"
 2. Specify the path where the script resides
-3. Use "crontab -e" to shedule this automation script
+3. Use "crontab -e" to schedule this automation script
    For example: * * * * * /home/admin/automation_script.sh
