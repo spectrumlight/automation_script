@@ -1,4 +1,4 @@
-# automation_script
+# automation_script.sh
 
 This bash script monitors your processes on Linux systems. 
 If a process isn't running, it automatically initiates it, making sure it's always up and running.
